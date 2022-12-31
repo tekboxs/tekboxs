@@ -1,5 +1,5 @@
 ## Olá sou Miguel Casagrande, programador mobile!
-<div align="center">
+<div align="left">
   <a href="https://github.com/tekboxs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tekboxs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
