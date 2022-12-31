@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tekboxs
-- 👀 I’m interested in Automation
-- 🌱 I’m currently learning Python and C#.
+- 👀 I’m interested in Mobile eApps
+- 🌱 I’m currently learning Flutter and NODE.
 - 📫 How to reach by email: tekboxs@gmail.com
 
