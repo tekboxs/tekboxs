@@ -1,5 +1,5 @@
 ## Olá sou Miguel Casagrande, programador mobile!
-Sou desenvolvedor <b>FrontEnd em Flutter Mobile</b> com experiência de 1 ano em criação de aplicativos para plataformas de vendas. Tenho habilidades em Getx, Mobx, API, Figma, Postman, entre outros! além de ter trabalhado em projetos de aplicativos relacionados a vendas anteriormente.
+Sou desenvolvedor <b>FrontEnd em Flutter Mobile</b> com experiência de 1 ano em criação de aplicativos para plataformas de vendas. Tenho pratica com Getx, Mobx, API, Figma, Postman, entre outros! além de ter trabalhado em projetos de aplicativos relacionados a vendas anteriormente.
 
 <h4>Aplicativos Publicados</h3>
 <ul>
