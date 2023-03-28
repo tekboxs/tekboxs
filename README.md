@@ -14,9 +14,6 @@ I'm a FrontEnd developer in Flutter Mobile with 1 year of experience in creating
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tekboxs&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=tekboxs&icon=7&color=0)](https://visitcount.itsvg.in)
 
