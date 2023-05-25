@@ -1,5 +1,9 @@
+
 # 💫 About Me:
+
 I'm a FrontEnd developer in Flutter Mobile with 1 year of experience in creating applications for sales platforms. I have practice with Getx, Mobx, API, Figma, Postman, among others! in addition to having worked on sales-related application projects previously.
+
+<img align="right" src="https://media.discordapp.net/attachments/1088896097977651321/1111374763739328573/logo.png?width=468&height=468" alt="Logo" width=150 height=150>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/433742288150200331) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-calmater-92b41a250) 
