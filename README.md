@@ -2,12 +2,11 @@
 # Olá! sou Miguel Casagrande
 
 ## Sobre mim
-Sou um desenvolvedor focado em Front End, com aproximadamente 2 anos de experiência na criação de aplicativos móveis Flutter. Durante minha jornada, explorei várias ferramentas, incluindo Riverpod, Provider, MobX, entre outras. Além do Flutter, também trabalho em projetos envolvendo C#, JavaScript, Python.
+Sou um desenvolvedor focado em Front End, com aproximadamente 2 anos de experiência na criação de aplicativos móveis Flutter. Durante minha jornada, explorei várias ferramentas, incluindo Riverpod, Provider, MobX, entre outras. Além do Flutter, também trabalho em projetos envolvendo C#, JavaScript e Python.
 
 ## Experiência e Habilidades
-- **Flutter**: 2 anos de experiência em desenvolvimento de aplicativos móveis com Flutter.
-- **Linguagens**: C#, JavaScript, Python.
-- **Ferramentas**: Riverpod, Provider, MobX.
+- **Flutter (Dart)**: 2 anos de experiência em desenvolvimento de aplicativos móveis com Flutter.
+- **Outras Linguagens**: C#, JavaScript, Python.
 
 ## Contato
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/433742288150200331) 
