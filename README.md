@@ -10,8 +10,6 @@ Sou um desenvolvedor focado em Front End, com aproximadamente 2 anos de experiê
 
 ## Contato
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/433742288150200331) 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-calmater-92b41a250) 
-
 Fique à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a colaborações e novos desafios!
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tekboxs&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
