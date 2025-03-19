@@ -16,4 +16,4 @@ Sou desenvolvedor focado em Front End, com aproximadamente **3 anos de experiên
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tekboxs&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br&card_width=520&layout=compact)
 
 ---
-![](https://visitcount.itsvg.in/api?id=tekboxs&label=Visitas&color=2&icon=6)
+![](https://komarev.com/ghpvc/?username=tekboxs&label=Visitas)
